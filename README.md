@@ -1,12 +1,12 @@
 # Desafio Paschoalotto
 
-### O QUE É
+### O que é
 Desafio empresa Paschoalotto, realizando testes automatizados com Ruby, Cucumber, Capybara e Selenium.
 
 ### Requisitos de sistema
 * Ruby
 * Vscode 
-* Chrome e chromedriver
+* Firefox e geckodriver
 
 ### Executando o projeto
 1. Faça o clone do projeto em sua máquina;
